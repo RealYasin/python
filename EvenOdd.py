@@ -3,7 +3,7 @@
 num=int(input("Enter Number= "))
 x=num/2
 if x%1:
-    print("Odd Number")
+    print(num,"is a Odd Number")
 else:
-    print("Even Number")
+    print(num,"is an Even Number")
     

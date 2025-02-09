@@ -1,7 +1,7 @@
 # To categorize age
 
 age=int(input("Please enter your age= "))
-if age<=15:
+if age<=12:
     print("You're a Child :)")
 elif age<=19:
     print("You're a Teenager.")
